@@ -1,4 +1,4 @@
-# myapp
+# Simple Flutter Food Recommendation Project
 
 A new Flutter project.
 
